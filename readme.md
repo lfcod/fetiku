@@ -21,31 +21,3 @@
 > 
 
 ### 🏠 [Homepage](fetiku.com)
-
-
-## Author
-
-👤 **stark**
-
-* Blog: [@wsdo](https://shudong.wang)
-* Twitter: [@wsd312](https://twitter.com/wsd312)
-* Github: [@wsdo](https://github.com/wsdo)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/wsdo/gitfe/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/fetiku">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## 📝 License
-
-Copyright © 2019 [stark](https://github.com/wsdo).<br />
-This project is [ISC](https://github.com/wsdo/gitfe/blob/master/LICENSE) licensed.
-
-
